@@ -16,7 +16,7 @@ title: Long Yuan (龙源) - HDU
 
 ## 🙋‍♂️ About Me
 
-I am currently a first-year graduate student  at the School of Automation, **Hangzhou Dianzi University (HDU)**, China.
+I am currently graduate student  at the School of Automation, **Hangzhou Dianzi University (HDU)**, China.
 
 My research focuses on **Artificial Intelligence**, with a particular interest in **Deep Learning** and **Continual Learning** (Incremental Learning). I am dedicated to exploring robust and adaptive learning mechanisms for dynamic environments.
 
