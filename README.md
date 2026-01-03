@@ -6,8 +6,8 @@
 [Hangzhou Dianzi University (HDU)](https://www.hdu.edu.cn/)  
 
 📍 **Location:** Hangzhou, China  
-📧 **Email:** [242060315@hdu.edu.cn](mailto:242060315@hdu.edu.cn)  
-
+📧 **Email:** [242060315@hdu.edu.cn](mailto:242060315@hdu.edu.cn)
+🔗 **Github:** [loong-sup](https://github.com/loong-sup) 
 ---
 
 ## 🙋‍♂️ About Me
